@@ -3,7 +3,6 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-santos-ab6784234/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlos.ownszz/)
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosSantos00&show_icons=true&theme=tokyonight)
 
 ### Linguagens que eu uso no meu dia
